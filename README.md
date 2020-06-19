@@ -22,6 +22,10 @@ and done
 
 ```bash
 docker pull docker.pkg.github.com/unleash-the-internet/v2shadowray/v2shadowray:latest
+
+# or
+
+docker pull registry.gitlab.com/unleash-the-internet/v2shadowray:latest
 ```
 
 and run it :D
